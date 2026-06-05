@@ -264,7 +264,7 @@
   .button-text {
     text-transform: uppercase;
     color: #fff;
-    font-family: $font-vn;
+    font-family: $font-acumin;
     line-height: 1.2;
     position: relative;
   }
@@ -902,7 +902,7 @@
     text-transform: uppercase;
     color: #ffffff;
     font-weight: 400;
-    font-family: $font-vn;
+    font-family: $font-acumin;
     text-align: center;
     display: flex;
     align-items: baseline;
@@ -1014,7 +1014,7 @@
     align-items: center;
     gap: .1rem;
     cursor: pointer;
-    font-family: $font-vn;
+    font-family: $font-acumin;
 
     &:hover {
       .content-number {
@@ -1067,7 +1067,7 @@
   .item-list {
     @include reset-list;
     padding-left: .1rem;
-    font-family: $font-vn;
+    font-family: $font-acumin;
 
     li {
       position: relative;
@@ -1220,7 +1220,7 @@
   .toggle-text {
     text-align: center;
     color: #fff;
-    font-family: $font-vn;
+    font-family: $font-acumin;
     font-size: .16rem;
     line-height: 1.25;
     text-transform: uppercase;

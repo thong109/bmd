@@ -96,7 +96,7 @@
     position: relative;
     display: flex;
     align-items: center;
-    font-family: $font-vn;
+    font-family: $font-acumin;
     color: rgb(136, 143, 142);
     font-size: .16rem;
     line-height: calc(36 / 16);
@@ -117,7 +117,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    font-family: $font-vn;
+    font-family: $font-acumin;
 
     p {
       margin: 0;
@@ -275,7 +275,7 @@
 }
 
 .post-content {
-  font-family: $font-vn;
+  font-family: $font-acumin;
 
   h2,
   h3,

@@ -228,7 +228,7 @@
 .section-top-utility .button-text {
   text-transform: uppercase;
   color: #fff;
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
   line-height: 1.2;
   position: relative;
 }
@@ -795,7 +795,7 @@
   text-transform: uppercase;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
   text-align: center;
   display: flex;
   align-items: baseline;
@@ -804,7 +804,7 @@
   pointer-events: none;
 }
 .list-gallery-tabs .title-common-primary span {
-  font-family: "Noto Serif Display", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 @media print, (min-width: 768px) {
   .list-gallery-tabs .title-common-primary {
@@ -887,7 +887,7 @@
   align-items: center;
   gap: 0.1rem;
   cursor: pointer;
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
 }
 .list-gallery-tabs .item-content:hover .content-number {
   background: #1c453c;
@@ -929,7 +929,7 @@
   padding: 0;
   list-style: none;
   padding-left: 0.1rem;
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
 }
 .list-gallery-tabs .item-list li {
   position: relative;
@@ -1062,7 +1062,7 @@
 .utilities-map-toggle .toggle-text {
   text-align: center;
   color: #fff;
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
   font-size: 0.16rem;
   line-height: 1.25;
   text-transform: uppercase;

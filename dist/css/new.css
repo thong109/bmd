@@ -74,7 +74,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
   color: rgb(136, 143, 142);
   font-size: 0.16rem;
   line-height: 2.25;
@@ -93,7 +93,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
 }
 .section-new-article .article-controller p {
   margin: 0;
@@ -220,14 +220,14 @@
 }
 
 .post-content {
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
 }
 .post-content h2,
 .post-content h3,
 .post-content h4,
 .post-content h5 {
   font-weight: 600;
-  font-family: "Noto Serif Display", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .post-content strong {
   font-weight: 600;

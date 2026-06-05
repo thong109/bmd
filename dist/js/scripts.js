@@ -1979,11 +1979,10 @@
   window.WebFontConfig = {
     custom: {
       families: [
-        "Be Vietnam Pro:n3,n4,n5,n6,n7",
-        "Noto Serif Display:n4,n5,n6",
+        "Montserrat:n3,n4,n5,n6,n7",
       ],
       urls: [
-        "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap",
+        "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap",
       ],
     },
   };

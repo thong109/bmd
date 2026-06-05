@@ -3,10 +3,25 @@
 @use "mixins"as *;
 
 @font-face {
-  font-family: "MTD Starcity Script";
-  src: url(./../resources/fonts/MTD_Starcity_Script.otf) format("opentype");
-  font-weight: normal;
+  font-family: AcuminPro;
   font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/AcuminPro-Medium.ttf") format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: AcuminPro;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/AcuminPro-Regular.ttf") format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: AcuminPro;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/AcuminPro-Bold.ttf") format("truetype");
+  font-display: swap;
 }
 
 html {

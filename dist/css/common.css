@@ -226,10 +226,25 @@ input[type=search] {
   }
 }
 @font-face {
-  font-family: "MTD Starcity Script";
-  src: url(./../resources/fonts/MTD_Starcity_Script.otf) format("opentype");
-  font-weight: normal;
+  font-family: AcuminPro;
   font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/AcuminPro-Medium.ttf") format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: AcuminPro;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/AcuminPro-Regular.ttf") format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: AcuminPro;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/AcuminPro-Bold.ttf") format("truetype");
+  font-display: swap;
 }
 html {
   line-height: 1;
@@ -265,8 +280,8 @@ html {
 
 body {
   background: #072d26;
-  color: #000;
-  font-family: "Noto Serif Display", sans-serif;
+  color: #0b1f3a;
+  font-family: "Montserrat", sans-serif;
   font-size: 0.16rem;
   font-weight: 400;
   line-height: 1.5;
@@ -388,7 +403,7 @@ html.is-touchable .trans:hover {
   align-items: center;
   color: #ffffff;
   cursor: pointer;
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
 }
 .header-common .header-logo {
   display: block;
@@ -930,7 +945,7 @@ html.is-touchable .trans:hover {
   fill: #FFFFFF;
 }
 #utilitiesPopup .popup-image .st2 {
-  font-family: "Be VietNam Pro", sans-serif;
+  font-family: "AcuminPro", sans-serif;
 }
 #utilitiesPopup .popup-image .st3 {
   font-size: 16px;
